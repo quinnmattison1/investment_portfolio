@@ -33,4 +33,4 @@ $env:PYTHONPATH="../;." ; python optimization.py
 - Python 3.x
 - Libraries: numpy, pandas, matplotlib, scipy, openpyxl
 
-The investment_optimization.py file automaticall runs a test case consisting of the stocks ["AMZN", "BEAM", "CBS", "CSCO", "EBAY"] from 1/1/2006 to 1/1/2007.
+The investment_optimization.py file automatically runs a test case consisting of the stocks ["AMZN", "BEAM", "CBS", "CSCO", "EBAY"] from 1/1/2006 to 1/1/2007.
