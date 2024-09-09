@@ -17,6 +17,7 @@ There are several selections of data inside the 'data' file, including the 'SPY.
 pip install numpy pandas matplotlib scipy openpyxl
 
 2. Run the script:
+
 For Linux and macOS
 PYTHONPATH="../:." python optimization.py
 
