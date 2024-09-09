@@ -1,6 +1,6 @@
 # Investment Portfolio Optimization
 
-This python script creates an investment profile, with optimal allocations, to maximize the associated Sharpe Ratio. It uses historicl stock data to calculate the cumulative return, mean daily return, standard deviation, and Sharpe ratio, and compares the investment portfolio's performance to the S&P 500.
+This python script creates an investment profile, with optimal allocations, to maximize the associated Sharpe Ratio. It uses historical stock data to calculate the cumulative return, mean daily return, standard deviation, and Sharpe ratio, and compares the investment portfolio's performance to the S&P 500.
 
 There are several selections of data inside the 'data' file, including the 'SPY.csv' file for the S&P500.
 
